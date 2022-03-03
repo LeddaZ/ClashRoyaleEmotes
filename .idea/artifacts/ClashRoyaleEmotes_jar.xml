@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ClashRoyaleEmotes:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ClashRoyaleEmotes_jar</output-path>
+    <root id="archive" name="ClashRoyaleEmotes.jar">
+      <element id="module-output" name="ClashRoyaleEmotes" />
+    </root>
+  </artifact>
+</component>
